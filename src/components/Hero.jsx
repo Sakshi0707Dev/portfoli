@@ -84,9 +84,14 @@ export default function Hero() {
               Sakshi Gaikwad <span className="inline-block">✨</span>
             </h1>
 
-            <p className="font-['JetBrains_Mono'] text-[.85rem] text-zinc-400">
-              @sakshigaikwad
-            </p>
+            <a
+              href="https://x.com/SakshiML_20"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-['JetBrains_Mono'] text-[.85rem] text-zinc-400 hover:text-zinc-200 transition-colors no-underline"
+            >
+              @SakshiML_20
+            </a>
 
             <p className="font-['Figtree'] text-[.85rem] text-white font-semibold underline underline-offset-4 decoration-white/30">
               Currently Building AI Automation Solutions
