@@ -1,13 +1,10 @@
 const skills = [
-  { name: 'Java', icon: '☕' },
-  { name: 'Spring Boot', icon: '🍃' },
   { name: 'React', icon: '⚛' },
   { name: 'Node.js', icon: '🟢' },
   { name: 'Express', icon: '⚡' },
   { name: 'MongoDB', icon: '🍃' },
   { name: 'PostgreSQL', icon: '🐘' },
   { name: 'MySQL', icon: '🐬' },
-  { name: 'Docker', icon: '🐳' },
   { name: 'Git', icon: '🔀' },
   { name: 'TypeScript', icon: '📘' },
   { name: 'JavaScript', icon: '📜' },

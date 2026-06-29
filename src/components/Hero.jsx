@@ -135,7 +135,7 @@ export default function Hero() {
           <span>Email Me</span>
         </a>
 
-        <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className={btnBase}>
+        <a href="https://github.com/Sakshi0707Dev" target="_blank" rel="noopener noreferrer" className={btnBase}>
           <GithubIcon size={14} />
         </a>
 
