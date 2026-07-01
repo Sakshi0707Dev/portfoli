@@ -1,6 +1,7 @@
 import { useActiveSection } from '../hooks/useActiveSection'
 import { useScrollProgress } from '../hooks/useScrollProgress'
 import { motion } from 'framer-motion'
+import resume from '../assets/sakshi gaikwad_Cv.pdf'
 
 const links = [
   { label: 'Home', href: '#home' },
@@ -48,7 +49,9 @@ export default function Navbar() {
           </div>
 
           <a
-            href="#contact"
+            href={resume}
+            target="_blank"
+            rel="noopener noreferrer"
             className="text-sm font-medium text-white bg-white/[0.08] hover:bg-white/[0.12] border border-white/10 px-4 py-2 rounded-xl transition-all duration-200"
           >
             Resume

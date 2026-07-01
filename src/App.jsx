@@ -21,7 +21,7 @@ function App() {
         <Skills />
       </div>
 
-      <div style={{ marginTop: 48 }}>
+      <div className="standard-container" style={{ marginTop: 48 }}>
         <SectionTitle>Projects</SectionTitle>
         <Projects />
       </div>
