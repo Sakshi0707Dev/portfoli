@@ -10,7 +10,7 @@ export default function Projects() {
       ))}
       <div className="view-all-projects right-side">
         <a
-          href="https://github.com/Sakshi0707Dev"
+          href="https://github.com/SakshiGaikwad05"
           target="_blank"
           rel="noopener noreferrer"
           className="view-all-btn"

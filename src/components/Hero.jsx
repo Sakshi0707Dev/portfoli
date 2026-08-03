@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
 import { MapPin, Clock, X, Mail, FileText } from 'lucide-react'
 import profileImg from '../assets/portf.jpg'
-import resume from '../assets/sakshi gaikwad_Cv.pdf'
+import resume from '../assets/Sakshi_Gaikwad.pdf'
 import ThemeToggle from './ThemeToggle'
 
 const GITHUB_ICON = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg'
@@ -151,7 +151,7 @@ export default function Hero() {
         </a>
 
         <a
-          href="https://github.com/Sakshi0707Dev"
+          href="https://github.com/SakshiGaikwad05"
           target="_blank"
           rel="noopener noreferrer"
           className={btnBase}
