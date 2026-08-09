@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
 import { MapPin, Clock, X, Mail, FileText } from 'lucide-react'
 import profileImg from '../assets/portf.jpg'
-import resume from '../assets/Sakshi_Gaikwad.pdf'
+import resume from '../assets/Sakshi_Gaikwad_Resume.pdf'
 import ThemeToggle from './ThemeToggle'
 
 const GITHUB_ICON = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg'
