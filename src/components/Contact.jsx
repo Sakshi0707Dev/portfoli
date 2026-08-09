@@ -1,4 +1,4 @@
-import resume from '../assets/Sakshi_Gaikwad.pdf'
+import resume from '../assets/Sakshi_Gaikwad_Resume.pdf'
 
 const CDN = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons'
 
